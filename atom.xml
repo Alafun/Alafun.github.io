@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alafun.github.io/</id>
     <title>Alafun</title>
-    <updated>2021-02-03T09:38:41.667Z</updated>
+    <updated>2021-02-03T18:05:31.095Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://alafun.github.io/"/>
     <link rel="self" href="https://alafun.github.io/atom.xml"/>
@@ -10,4 +10,11 @@
     <logo>https://alafun.github.io/images/avatar.png</logo>
     <icon>https://alafun.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Alafun</rights>
+    <entry>
+        <title type="html"><![CDATA[How to install and start up VMware ]]></title>
+        <id>https://alafun.github.io/post/how-to-install-and-start-up-vmware/</id>
+        <link href="https://alafun.github.io/post/how-to-install-and-start-up-vmware/">
+        </link>
+        <updated>2021-02-03T16:26:21.000Z</updated>
+    </entry>
 </feed>
